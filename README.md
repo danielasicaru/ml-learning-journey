@@ -21,9 +21,9 @@ The program is divided into 3 phases, each building on the previous:
 
 | Phase | Focus | Weeks |
 |---|---|---|
-| [Phase 1 — Foundations](#foundations) | ML mechanics, neural nets, Transformers | 1–3 |
-| [Phase 2 — Projects](#projects) | Computer vision, NLP, recommender system | 4–8 |
-| [Phase 3 — MLOps](#mlops) | Deployment, tracking, monitoring, capstone | 9–12 |
+| [Phase 1 — Foundations](./foundations/) | ML mechanics, neural nets, Transformers | 1–3 |
+| [Phase 2 — Projects](./projects/) | Computer vision, NLP, recommender system | 4–8 |
+| [Phase 3 — MLOps](./mlops/) | Deployment, tracking, monitoring, capstone | 9–12 |
 
 ---
 
@@ -174,4 +174,4 @@ Each sub-project has its own `README.md` with specific setup instructions and ho
 ## 📬 Contact
 
 Feel free to connect or follow the journey:  
-[LinkedIn](#https://www.linkedin.com/in/sicarudaniela/) · [GitHub](#https://github.com/danielasicaru)
+[LinkedIn](https://www.linkedin.com/in/sicarudaniela/) · [GitHub](https://github.com/danielasicaru)
