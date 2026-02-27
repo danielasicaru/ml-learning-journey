@@ -8,7 +8,7 @@ This repository documents every step of the journey — from foundational concep
 
 ## 👤 About
 
-**Background:** ML Software Engineer transitioning into ML/AI Engineering II
+**Background:** ML Software Engineer transitioning into ML/AI Engineering II 
 **Goal:** Build real, deployable AI projects across computer vision, NLP, and recommender systems  
 **Timeline:** 12 weeks | 3–5 hours/week  
 **Stack:** Python · PyTorch · scikit-learn · HuggingFace · LangChain · FastAPI · Docker · MLflow
@@ -31,7 +31,7 @@ The program is divided into 3 phases, each building on the previous:
 
 > *Filling the gaps that hurt you later: backpropagation, CNN/RNN/Transformer architecture intuition, and hands-on implementation from scratch.*
 
-### [01 — Backpropagation from Scratch](./foundations/backprop-from-scratch/)
+### [01 — Backpropagation from Scratch](./foundations/backprop_from_scratch)
 Implementing a fully connected neural network using only NumPy — forward pass, loss computation, backpropagation, and gradient descent — to deeply understand what happens under the hood before using any framework.
 
 **Concepts covered:** Chain rule · Vanishing gradients · Binary cross-entropy · Weight updates
@@ -161,7 +161,7 @@ cd ml-learning-journey
 
 # Create a virtual environment
 python -m venv ml_learning_env
-source ml_learning_env/bin/activate  # on Windows: venv\Scripts\activate
+source ml_learning_env/bin/activate 
 
 # Install base dependencies
 pip install -r requirements.txt

@@ -13,7 +13,7 @@ b1 = np.zeros((1, 3))
 W2 = np.random.randn(3, 1) * 0.1   # hidden→output  (3 neurons, 1 output)
 b2 = np.zeros((1, 1))
 
-learning_rate = 0.1
+learning_rate = 1.1
 
 # ── Activation function ───────────────────────────────────────────
 def sigmoid(z):
